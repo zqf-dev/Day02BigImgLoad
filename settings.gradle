@@ -1,0 +1,3 @@
+rootProject.name='Day02BigImgLoad'
+include ':app'
+include ':imglib'
